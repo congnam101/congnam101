@@ -22,16 +22,19 @@ Ask me anything <a href="https://github.com/trantuankhoabc/trantuankhoabc/issues
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/trantuankhoabc/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/congnam101/congnam101) 
 ## 👨🏻‍💻 &nbsp;Things I code with ##
 <p>
-<!-- Công cụ và nền tảng dành cho An ninh mạng -->
+<!-- 🛠️ Tools & Platforms in Cybersecurity -->
 <img alt="NetBeans" src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white" />
 <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
 <img alt="Burp Suite" src="https://img.shields.io/badge/-Burp_Suite-FF7139?style=flat-square&logo=burp-suite&logoColor=white" />
-<img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img alt="Metasploit" src="https://img.shields.io/badge/-Metasploit-4E8CAF?style=flat-square&logo=metasploit&logoColor=white" />
+<img alt="Nmap" src="https://img.shields.io/badge/-Nmap-214478?style=flat-square&logo=nmap&logoColor=white" />
+<img alt="IDA Pro" src="https://img.shields.io/badge/-IDA_Pro-000000?style=flat-square&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="Kali Linux" src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=linux&logoColor=white" />
 <img alt="Wazuh" src="https://img.shields.io/badge/-Wazuh-0262AB?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xMiAxYy02LjA1IDAtMTEgNC45NS0xMSAxMXM0Ljk1IDExIDExIDExIDExLTQuOTUgMTEtMTEtNC45NS0xMS0xMS0xMXptMi44NiAxMi4yNmwtNC4xNCA0LjE0LTEuNDItMS40MiAyLjcyLTIuNzJ2LTYuNTZoMi44NnY2LjU2eiIvPjwvc3ZnPg==" />
 <img alt="Snort" src="https://img.shields.io/badge/-Snort-CC0000?style=flat-square&logo=snort&logoColor=white" />
 <img alt="Suricata" src="https://img.shields.io/badge/-Suricata-FF4500?style=flat-square&logo=suricata&logoColor=white" />
+
 
 </p>
 
