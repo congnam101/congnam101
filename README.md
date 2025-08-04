@@ -23,7 +23,7 @@ Ask me anything <a href="https://github.com/trantuankhoabc/trantuankhoabc/issues
 ## 👨🏻‍💻 &nbsp;Things I code with ##
 <p>
 <!-- Công cụ và nền tảng dành cho An ninh mạng -->
-<img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+<img alt="NetBeans" src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white" />
 <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
 <img alt="Burp Suite" src="https://img.shields.io/badge/-Burp_Suite-FF7139?style=flat-square&logo=burp-suite&logoColor=white" />
 <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
