@@ -13,7 +13,8 @@ Ask me anything <a href="https://github.com/trantuankhoabc/trantuankhoabc/issues
 <br>
   ✨ Current situation
 
-- 🔭 I'm learned: HCMC UNIVERSITY OF FOREIGN LANGUAGES - INFORMATION TECHNOLOGY (HUFLIT) 
+🔭 I'm learned: HCMC UNIVERSITY OF FOREIGN LANGUAGES - INFORMATION TECHNOLOGY (HUFLIT) 
+
 🌱 I’m currently learning Reverse Engineering, Penetration Testing, and working with SIEM tools to strengthen my skills in identifying and analyzing cyber threats.
 
 ⛑️ And I'm currently working on deploying open-source security tools such as Wazuh, Snort, and Suricata to build a hands-on understanding of threat detection and incident response in real-world environments.
