@@ -17,7 +17,7 @@ Ask me anything <a href="https://github.com/trantuankhoabc/trantuankhoabc/issues
 - 🌱 I’m currently learning Angular/Typescript and ASP.NET Core GraphQL
 - ⛑️ And I'm currently working on **GIS**
 ## 📫 How to reach me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/trantuankhoabc/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/trantuankhoabc/) 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/trantuankhoabc/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/congnam101/congnam101) 
 ## 👨🏻‍💻 &nbsp;Things I code with ##
 <p>
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
