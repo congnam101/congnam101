@@ -22,6 +22,7 @@ Ask me anything <a href="https://github.com/trantuankhoabc/trantuankhoabc/issues
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/congnam101/congnam101) 
 ## 👨🏻‍💻 &nbsp;Things I code with ##
 <p>
+<img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 <img alt="NetBeans" src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white" />
 <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
 <img alt="Burp Suite" src="https://img.shields.io/badge/-Burp_Suite-FF7139?style=flat-square&logo=burp-suite&logoColor=white" />
@@ -33,8 +34,6 @@ Ask me anything <a href="https://github.com/trantuankhoabc/trantuankhoabc/issues
 <img alt="Wazuh" src="https://img.shields.io/badge/-Wazuh-0262AB?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xMiAxYy02LjA1IDAtMTEgNC45NS0xMSAxMXM0Ljk1IDExIDExIDExIDExLTQuOTUgMTEtMTEtNC45NS0xMS0xMS0xMXptMi44NiAxMi4yNmwtNC4xNCA0LjE0LTEuNDItMS40MiAyLjcyLTIuNzJ2LTYuNTZoMi44NnY2LjU2eiIvPjwvc3ZnPg==" />
 <img alt="Snort" src="https://img.shields.io/badge/-Snort-CC0000?style=flat-square&logo=snort&logoColor=white" />
 <img alt="Suricata" src="https://img.shields.io/badge/-Suricata-FF4500?style=flat-square&logo=suricata&logoColor=white" />
-
-
 </p>
 
 ## 📈 &nbsp;Some Github Stats ##
