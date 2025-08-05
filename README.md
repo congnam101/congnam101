@@ -45,3 +45,22 @@ Ask me anything <a href="https://github.com/trantuankhoabc/trantuankhoabc/issues
 <span align="right">
 ![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=congnam101&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
 </span>
+---
+
+## 📂 Projects I've Done
+
+### 🌐 1. Deploying a Dynamic Website with Nginx, MySQL, Jenkins CI/CD, and Active Security using Suricata
+
+📽️ **Video Demo**: [Watch on YouTube](https://www.youtube.com/watch?v=Mi-IkF9fDug)
+
+📌 **Short Description**:  
+This project builds a dynamic website infrastructure using **Nginx** as the web server and **MySQL** as the database. A **cronjob** is implemented for scheduled backups, while **Jenkins** automates the CI/CD pipeline for continuous integration and deployment.  
+For security, the system integrates **Suricata** as an IDS (Intrusion Detection System) to monitor network traffic and detect suspicious activities such as port scanning, brute-force attempts, etc.  
+Additionally, **ICMP (ping) is blocked**, and **Nmap port scanning detection and blocking** is configured to enhance the system's active defense capabilities.
+
+🛠 **Technologies Used**:  
+`Docker`, `Nginx`, `MySQL`, `Jenkins`, `Crontab`, `CI/CD`, `GitHub Actions`, `Suricata`, `iptables`, `Shell Script`, `Linux`
+
+📁 **Source Code**: [View on GitHub](https://github.com/congnam101/website-nginx-mysql)
+
+---
