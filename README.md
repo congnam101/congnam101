@@ -47,13 +47,11 @@ Ask me anything <a href="https://github.com/trantuankhoabc/trantuankhoabc/issues
 </span>
 
 
----
-
 ## 📂 Projects I've Done
 
 ### 🌐 1. Deploying a Dynamic Website with Nginx, MySQL, Jenkins CI/CD, and Active Security using Suricata
 
-📽️ Video Demo: https://youtu.be/Mi-IkF9fDug?si=muNPkFQBFcd5Y29f
+📽️ Video Demo: [YouTube](https://youtu.be/Mi-IkF9fDug?si=muNPkFQBFcd5Y29f)
 
 Short Description:  
 This project builds a dynamic website infrastructure using Nginx as the web server and MySQL as the database. A cronjob is implemented for scheduled backups, while Jenkins automates the CI/CD pipeline for continuous integration and deployment.  
@@ -63,20 +61,21 @@ Additionally, ICMP (ping) is blocked, and Nmap port scanning detection and block
 Technologies Used:  
 Docker, Nginx, MySQL, Jenkins, Crontab, CI/CD, GitHub Actions, Suricata, iptables, Shell Script, Linux
 
-Source Code: https://github.com/congnam101/website-nginx-mysql
+Source Code: [GitHub](https://github.com/congnam101/website-nginx-mysql)
 
 ---
 
 ### 🐀 2. Remote Access Trojan (RAT) – Demo Using SET and Metasploit
 
-📽️ Video Demo: https://youtu.be/kowgmcemsR8?si=z2mFRdBCcIS0KNNh
+📽️ Video Demo: [YouTube](https://youtu.be/kowgmcemsR8?si=z2mFRdBCcIS0KNNh)
+
 Short Description:  
 This demo showcases a Remote Access Trojan (RAT) attack scenario created using Social-Engineer Toolkit (SET) and Metasploit Framework on Kali Linux. The demonstration includes:
 
-- Payload generation via SET
-- Delivery using social engineering techniques
-- Remote access through msfconsole reverse shell
-- Command execution, file interaction, and remote control
+- Payload generation via SET  
+- Delivery using social engineering techniques  
+- Remote access through msfconsole reverse shell  
+- Command execution, file interaction, and remote control  
 
 This project was created for cybersecurity learning purposes only. The source code is not included for ethical and legal reasons.
 
@@ -87,21 +86,20 @@ Kali Linux, SET Toolkit, Metasploit Framework, msfconsole, Reverse Shell, Virtua
 
 ### 📡 3. Evil Twin Attack Demo using Fluxion (Kali Linux)
 
-📽️ Video Demo: https://youtu.be/gZpFKklw5X4?si=5y92SP_0KZwiaE2n
+📽️ Video Demo: [YouTube](https://youtu.be/gZpFKklw5X4?si=5y92SP_0KZwiaE2n)
 
 Short Description:  
 This project demonstrates an Evil Twin attack using Fluxion on Kali Linux. The attack involves setting up a fake wireless access point that mimics a real Wi-Fi network to trick users into connecting and entering their WPA/WPA2 credentials through a fake captive portal.
 
-The attack flow includes:
-- Scanning for nearby Wi-Fi access points
-- Cloning a target SSID using Fluxion
-- Deauthentication of the legitimate client
-- Capturing credentials via the fake login page
+The attack flow includes:  
+- Scanning for nearby Wi-Fi access points  
+- Cloning a target SSID using Fluxion  
+- Deauthentication of the legitimate client  
+- Capturing credentials via the fake login page  
 
 This demonstration was conducted in a controlled environment and is intended for educational purposes only.
 
 Tool Used:  
 Kali Linux, Fluxion
 
----
 
