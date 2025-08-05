@@ -19,10 +19,9 @@ Ask me anything <a href="https://github.com/trantuankhoabc/trantuankhoabc/issues
 
 ⛑️ And I'm currently working on deploying open-source security tools such as Wazuh, Snort, and Suricata to build a hands-on understanding of threat detection and incident response in real-world environments.
 ## 📫 How to reach me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/trantuankhoabc/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/congnam101/congnam101) 
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/congnam101/congnam101) 
 ## 👨🏻‍💻 &nbsp;Things I code with ##
 <p>
-<!-- 🛠️ Tools & Platforms in Cybersecurity -->
 <img alt="NetBeans" src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white" />
 <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
 <img alt="Burp Suite" src="https://img.shields.io/badge/-Burp_Suite-FF7139?style=flat-square&logo=burp-suite&logoColor=white" />
