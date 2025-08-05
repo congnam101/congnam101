@@ -45,42 +45,63 @@ Ask me anything <a href="https://github.com/trantuankhoabc/trantuankhoabc/issues
 <span align="right">
 ![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=congnam101&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
 </span>
+
+
 ---
 
 ## 📂 Projects I've Done
 
 ### 🌐 1. Deploying a Dynamic Website with Nginx, MySQL, Jenkins CI/CD, and Active Security using Suricata
 
-📽️ Video Demo: [Watch on YouTube](https://www.youtube.com/watch?v=Mi-IkF9fDug)
+📽️ Video Demo: https://youtu.be/Mi-IkF9fDug?si=muNPkFQBFcd5Y29f
 
-📌 Short Description:  
+Short Description:  
 This project builds a dynamic website infrastructure using Nginx as the web server and MySQL as the database. A cronjob is implemented for scheduled backups, while Jenkins automates the CI/CD pipeline for continuous integration and deployment.  
 For security, the system integrates Suricata as an IDS (Intrusion Detection System) to monitor network traffic and detect suspicious activities such as port scanning, brute-force attempts, etc.  
 Additionally, ICMP (ping) is blocked, and Nmap port scanning detection and blocking is configured to enhance the system's active defense capabilities.
 
-🛠 Technologies Used:  
-'Docker', 'Nginx', 'MySQL', 'Jenkins', 'Crontab', 'CI/CD', 'GitHub Actions', 'Suricata', 'iptables', 'Shell Script', 'Linux'
+Technologies Used:  
+Docker, Nginx, MySQL, Jenkins, Crontab, CI/CD, GitHub Actions, Suricata, iptables, Shell Script, Linux
 
-📁 Source Code: [View on GitHub](https://github.com/congnam101/website-nginx-mysql)
+Source Code: https://github.com/congnam101/website-nginx-mysql
 
 ---
 
 ### 🐀 2. Remote Access Trojan (RAT) – Demo Using SET and Metasploit
 
-📽️ **Video Demo**: [Watch on YouTube](https://youtu.be/kowgmcemsR8?si=v00pZ4kiIemtJ6P3)
-
-📌 Short Description:  
-This demo showcases a 'Remote Access Trojan (RAT)' attack scenario created using 'Social-Engineer Toolkit (SET)' and 'Metasploit Framework' on 'Kali Linux'. The demonstration includes:
+📽️ Video Demo: https://youtu.be/kowgmcemsR8?si=z2mFRdBCcIS0KNNh
+Short Description:  
+This demo showcases a Remote Access Trojan (RAT) attack scenario created using Social-Engineer Toolkit (SET) and Metasploit Framework on Kali Linux. The demonstration includes:
 
 - Payload generation via SET
 - Delivery using social engineering techniques
 - Remote access through msfconsole reverse shell
 - Command execution, file interaction, and remote control
 
-🔒 This project was created for **cybersecurity learning purposes only**. The source code is not included for ethical and legal reasons.
+This project was created for cybersecurity learning purposes only. The source code is not included for ethical and legal reasons.
 
-🛠 Tools Used:  
-'Kali Linux', 'SET Toolkit', 'Metasploit Framework', 'msfconsole', 'Reverse Shell', 'VirtualBox','Windows'
+Tools Used:  
+Kali Linux, SET Toolkit, Metasploit Framework, msfconsole, Reverse Shell, VirtualBox, Wireshark, Windows
+
+---
+
+### 📡 3. Evil Twin Attack Demo using Fluxion (Kali Linux)
+
+📽️ Video Demo: https://youtu.be/gZpFKklw5X4?si=5y92SP_0KZwiaE2n
+
+Short Description:  
+This project demonstrates an Evil Twin attack using Fluxion on Kali Linux. The attack involves setting up a fake wireless access point that mimics a real Wi-Fi network to trick users into connecting and entering their WPA/WPA2 credentials through a fake captive portal.
+
+The attack flow includes:
+- Scanning for nearby Wi-Fi access points
+- Cloning a target SSID using Fluxion
+- Deauthentication of the legitimate client
+- Capturing credentials via the fake login page
+
+This demonstration was conducted in a controlled environment and is intended for educational purposes only.
+
+Tool Used:  
+Kali Linux, Fluxion
 
 ---
 
