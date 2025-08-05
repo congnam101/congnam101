@@ -80,7 +80,7 @@ This demo showcases a Remote Access Trojan (RAT) attack scenario created using S
 This project was created for cybersecurity learning purposes only. The source code is not included for ethical and legal reasons.
 
 Tools Used:  
-Kali Linux, SET Toolkit, Metasploit Framework, msfconsole, Reverse Shell, VirtualBox, Wireshark, Windows
+Kali Linux, SET Toolkit, Metasploit Framework, msfconsole, Reverse Shell, VirtualBox, Windows
 
 ---
 
